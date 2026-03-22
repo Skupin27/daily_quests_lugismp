@@ -451,7 +451,7 @@
       / Description: "Zabij 81 Witherů."
       / Reward: 3000P
       
-      IV -- Name: "↑↓→← (Tajemství)"
+      IV -- Name: "↑↓←→ (Tajemství)"
       / Description: "Zneškodni 1000 zvířat (kromě slepic)."
       // For UNK: (Všechny zvířata až na slepice >:3c)
       / Reward: 7000P
