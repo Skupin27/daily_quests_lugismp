@@ -10,7 +10,7 @@
 
 ### Anti-farm ochrana:
 mob kill questy:
-- nepočítat spawner farmy
+- nepočítat spawner farmy <br>
 mining:
 - jen naturalní generace
 
