@@ -393,6 +393,11 @@ mining:
         / Description: "Navštiv Nether i End."
         / Reward: 600P
 
+      XXXV -- Name: "Drakobijec (Těžší)"
+        / Description: "Zabij Draka z Endu, třikrát."
+        / Reward: 1000P
+        / Recommended by: WroxCZ
+
 
 ## SECRET:
 
