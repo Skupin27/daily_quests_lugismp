@@ -86,7 +86,38 @@ mining:
     XVII -- Name: "Čaroděj (Lehké)"
       / Description: "Enčantuj 1 item."
       / Reward: 25P
-
+      
+      XVIII -- Name: "Plavec (Lehké)"
+        / Description: "Uplav 500 bloků."
+        / Reward: 15P
+      
+      XIX -- Name: "Lezec (Lehké)"
+        / Description: "Vylez 128 bloků nahoru."
+        / Reward: 20P
+      
+      XX -- Name: "Stavitel (Lehké)"
+        / Description: "Polož 128 bloků."
+        / Reward: 20P
+      
+      XXI -- Name: "Spalovač (Lehké)"
+        / Description: "Spal 32 itemů ve furnace."
+        / Reward: 15P
+      
+      XXII -- Name: "Alchymista (Lehké)"
+        / Description: "Udělej 3 lektvary."
+        / Reward: 25P
+      
+      XXIII -- Name: "Jezdec (Lehké)"
+        / Description: "Ujeď 500 bloků na zvířeti."
+        / Reward: 30P
+      
+      XXIV -- Name: "Knihomol (Lehké)"
+        / Description: "Vyrob 5 knih."
+        / Reward: 20P
+      
+      XXV -- Name: "Sběratel (Lehké)"
+        / Description: "Seber 64 různých itemů."
+        / Reward: 35P
 
   ## MEDIUM:
 
@@ -182,6 +213,38 @@ mining:
       / Description: "Enčantuj 5 item."
       / Reward: 100P
 
+      XXIII -- Name: "Stavitel (Střední)"
+        / Description: "Polož 512 bloků."
+        / Reward: 85P
+      
+      XXIV -- Name: "Cestovatel (Střední)"
+        / Description: "Ujdi 5000 bloků."
+        / Reward: 90P
+      
+      XXV -- Name: "Potápěč (Střední)"
+        / Description: "Strav 10 minut pod vodou."
+        / Reward: 95P
+      
+      XXVI -- Name: "Alchymista (Střední)"
+        / Description: "Udělej 16 lektvarů."
+        / Reward: 100P
+      
+      XXVII -- Name: "Lovec pokladů (Střední)"
+        / Description: "Najdi 3 truhly ve strukturách."
+        / Reward: 110P
+      
+      XXVIII -- Name: "Redstoner (Střední)"
+        / Description: "Použij 128 redstonu."
+        / Reward: 95P
+      
+      XXIX -- Name: "Opravář+ (Střední)"
+        / Description: "Oprav 10 itemů na kovadlině."
+        / Reward: 105P
+      
+      XXX -- Name: "Portál (Střední)"
+        / Description: "Postav Nether portál."
+        / Reward: 120P
+
 
 ## HARD:
 
@@ -247,7 +310,7 @@ mining:
       / Description: "Zabij 12 hráčů."
       / Reward: 400P
 
-    XVI -- Name: " (Těžší)"
+    XVI -- Name: "Ramadán (Těžší)"
       / Description: "Nejez 30 dní."
         // For UNK: (Nesmí jíst, ale mohou pít potiony)
       / Reward: 250P
@@ -296,6 +359,36 @@ mining:
         // For UNK: (Pouze pokud by šlo aby se mohli craftit custom itemy)
       / Reward: 500P
 
-    XXVII -- Name: " (Těžší)"
-      / Description: "."
-      / Reward: 500P
+    || XXVII -- Name: "Zlatá horečka (Těžší)"
+      / Description: "Vyrýžuj 10 zlatých nugetek."
+        // For UNK: (Pouze pokud by šlo aby se mohli craftit custom itemy)
+      / Reward: 550P
+
+     || XXVI -- Name: "Ekonomie (Těžší)"
+      / Description: "Prodej zlatou nugetku."
+        // For UNK: (Pouze pokud by šlo aby se mohli craftit custom itemy)
+      / Reward: 450P
+
+    XXVIII -- Name: "Stavitel (Těžší)"
+        / Description: "Polož 2048 bloků."
+        / Reward: 250P
+      
+      XXIX -- Name: "Cestovatel (Těžší)"
+        / Description: "Ujdi 20000 bloků."
+        / Reward: 300P
+      
+      XXX -- Name: "Potápěč (Těžší)"
+        / Description: "Strav 30 minut pod vodou."
+        / Reward: 350P
+      
+      XXXI -- Name: "Alchymista (Těžší)"
+        / Description: "Udělej 64 lektvarů."
+        / Reward: 400P
+      
+      XXXII -- Name: "Lovec pokladů (Těžší)"
+        / Description: "Najdi 10 truhel ve strukturách."
+        / Reward: 450P
+      
+      XXXIII -- Name: "Dimenzionální cestovatel (Těžší)"
+        / Description: "Navštiv Nether i End."
+        / Reward: 600P
