@@ -397,7 +397,7 @@ mining:
       XXXV -- Name: "Drakobijec (Těžší)"
         / Description: "Zabij Draka z Endu, třikrát."
         / Reward: 1000P
-        / Recommended by: WroxCZ
+        / Recommended by: <WroxCZ>
 
 
 ## SECRET:
