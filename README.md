@@ -10,7 +10,7 @@
 > [Hard](#hard)  
 > [Secret](#secret)
 > 
-> Momentálně je 100 úkolů  
+> Momentálně je 101 úkolů  
 
 ---
 
@@ -434,6 +434,10 @@
       XXXVII -- Name: "Mašinfýra (Těžší)"
       / Description: "Jeď 25000 metrů ve vozíku."
       / Reward: 350P
+
+      XXXVIII -- Name: "Masochista (Těžší)"
+      / Description: "Sněz 64 otrávených brambor."
+      / Reward: 500P
 
 
 ## SECRET:
