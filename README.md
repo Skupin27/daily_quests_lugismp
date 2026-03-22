@@ -6,6 +6,7 @@
       / Description: "Příklad." <-- Popis úkolu <br>
     &nbsp;    // For UNK: (Info) <-- Info pro Unknowna <br>
       / Reward: 999P <-- Odměna za úkol <br>
+      / Recommended by: <Příklad> <-- jméno/nickname <br>
 
 ### Anti-farm ochrana:
 mob kill questy:
