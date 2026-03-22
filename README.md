@@ -1,7 +1,9 @@
 # DAILY QUESTS:
 
-### Vytvořili: <br> Skupin27 a bal_di7 
+[[_TOC_]]
 
+### Vytvořili: <br> Skupin27 a bal_di7 
+> **Momentálně je 100 úkolů** 
 
 #### Legenda:
 
