@@ -418,7 +418,7 @@
       / Reward: 450P
       
       XXXIV -- Name: "Dimenzionální cestovatel (Těžší)"
-      / Description: "Navštiv Nether i End."
+      / Description: "Navštiv všechny dimenze alespoň na 1 hodinu."
       / Reward: 600P
       
       XXXV -- Name: "Drakobijec (Těžší)"
