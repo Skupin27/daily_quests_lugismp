@@ -401,7 +401,7 @@ mining:
         // For UNK: (Pouze pokud by šlo přidat custom bosse)
       / Reward: 2500P
 
-      I -- Name: "Smrtelník (Tajemství)"
+      II -- Name: "Smrtelník (Tajemství)"
        / Description: "Umři sto a jednou."
        / Reward: 2500P
 
