@@ -461,7 +461,7 @@
       / Reward: 7000P
       
       || V -- Name: "Sisyfos (Tajemství)"
-      / Description: "Ujdi 10000 metrů (Pouze chůze)."
+      / Description: "Ujdi 25000 metrů (Pouze chůze)."
       // For UNK: (Nesmíš jíst, skákat, plavat, jezdit v lodi/ve vozíku/na zvířatech, létat ani sprintovat) !!! NESM9 TO BÝT STÁLE NA STEJNÝCH SOUŘADNICÍCH
       / Reward: 10000P
        
