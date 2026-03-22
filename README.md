@@ -2,7 +2,7 @@
 
 ## Tvůrci: Skupin27 a bal_di7
 
-> Content:  
+> Obsah:  
 > [Legenda](#legenda)  
 > [Anti-farm ochrana](#anti-farm-ochrana)  
 > [Easy](#easy)  
