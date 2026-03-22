@@ -4,7 +4,7 @@
 
 || I -- Name: "Příklad (Lehké/Střední/Těžší)" <-- jméno úkolu ( I ) <-- pořadí ( || ) <-- pouze pokud to půjdu <br>
       / Description: "Příklad." <-- Popis úkolu <br>
-        // For UNK: (Info) <-- Info pro Unknowna <br>
+    &nbsp;    // For UNK: (Info) <-- Info pro Unknowna <br>
       / Reward: 999P <-- Odměna za úkol <br>
 
 ### Anti-farm ochrana:
