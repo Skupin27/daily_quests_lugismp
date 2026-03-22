@@ -1,19 +1,28 @@
-# DAILY QUESTS:
+# DENNÍ ÚKOLY PRO LUIGISMP:
 
-[[_TOC_]]
+## Tvůrci: Skupin27 a bal_di7
 
-### Vytvořili: <br> Skupin27 a bal_di7 
-> **Momentálně je 100 úkolů** 
+> Content:  
+> [Legenda](#legenda)  
+> [Anti-farm ochrana](#anti-farm-ochrana)  
+> [Easy](#easy)  
+> [Medium](#medium)  
+> [Hard](#hard)  
+> [Secret](#secret)
+> 
+> Momentálně je 100 úkolů  
 
-#### Legenda:
+---
 
-|| I -- Name: "Příklad (Lehké/Střední/Těžší)" <-- jméno úkolu ( I ) <-- pořadí ( || ) <-- pouze pokud to půjde udělat <br>
-      / Description: "Příklad." <-- Popis úkolu <br>
-    &nbsp;    // For UNK: (Info) <-- Info pro Unknowna <br>
-      / Reward: 999P <-- Odměna za úkol <br>
-      / Recommended by: <Příklad> <-- jméno/nickname <br>
+## Legenda:
 
-#### Anti-farm ochrana:
+|| I -- Name: "Příklad (Lehké/Střední/Těžší)" <-- jméno úkolu ( I ) <-- pořadí ( || ) <-- pouze pokud to půjde udělat  
+      / Description: "Příklad." <-- Popis úkolu  
+    &nbsp;    // For UNK: (Info) <-- Info pro Unknowna  
+      / Reward: 999P <-- Odměna za úkol  
+      / Recommended by: <Příklad> <-- jméno/nickname  
+
+## Anti-farm ochrana:
 - mob kill questy:
 -- nepočítat spawner farmy <br>
 - mining:
