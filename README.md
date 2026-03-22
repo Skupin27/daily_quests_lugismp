@@ -245,6 +245,11 @@
       XXX -- Name: "Portál (Střední)"
         / Description: "Postav Nether portál."
         / Reward: 120P
+        
+       XXXI -- Name: "Schopnostník (Střední)"
+        / Description: "Použij schopnost, alespoň jednou."
+        / Reward: 120P
+
 
 
 ## HARD:
@@ -398,6 +403,10 @@
         / Description: "Zabij Draka z Endu, třikrát."
         / Reward: 1000P
         / Recommended by: <WroxCZ>
+
+      XXXVI -- Name: "Schopnostník (Těžší)"
+        / Description: "Použij schopnost, alespoň 20krát."
+        / Reward: 420P
 
 
 ## SECRET:
