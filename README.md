@@ -1,9 +1,9 @@
 # DAILY QUESTS:
 
- Vytvořili <Skupin27> a <bal_di7> 
----
+### Vytvořili: <br> Skupin27 a bal_di7 
 
-### Legenda:
+
+#### Legenda:
 
 || I -- Name: "Příklad (Lehké/Střední/Těžší)" <-- jméno úkolu ( I ) <-- pořadí ( || ) <-- pouze pokud to půjdu <br>
       / Description: "Příklad." <-- Popis úkolu <br>
@@ -11,7 +11,7 @@
       / Reward: 999P <-- Odměna za úkol <br>
       / Recommended by: <Příklad> <-- jméno/nickname <br>
 
-### Anti-farm ochrana:
+#### Anti-farm ochrana:
 - mob kill questy:
 -- nepočítat spawner farmy <br>
 - mining:
