@@ -439,7 +439,7 @@
 ## SECRET:
 
       || I -- Name: "Herkules (Tajemný)"
-      / Description: "Odeber Medúzi hlavy z jejího krku."
+      / Description: "Odeber Medúzi hlavu z jejího krku."
       // For UNK: (Pouze pokud by šlo přidat custom bosse)
       / Reward: 2500P
       
