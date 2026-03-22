@@ -9,10 +9,10 @@
       / Recommended by: <Příklad> <-- jméno/nickname <br>
 
 ### Anti-farm ochrana:
-mob kill questy:
-- nepočítat spawner farmy <br>
-mining:
-- jen naturalní generace
+- mob kill questy:
+-- nepočítat spawner farmy <br>
+- mining:
+-- jen naturalní generace
 
 
  ## EASY:
