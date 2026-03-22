@@ -364,31 +364,45 @@ mining:
         // For UNK: (Pouze pokud by šlo aby se mohli craftit custom itemy)
       / Reward: 550P
 
-     || XXVI -- Name: "Ekonomie (Těžší)"
+     || XXVIII -- Name: "Ekonomie (Těžší)"
       / Description: "Prodej zlatou nugetku."
         // For UNK: (Pouze pokud by šlo aby se mohli craftit custom itemy)
       / Reward: 450P
 
-    XXVIII -- Name: "Stavitel (Těžší)"
+      XXIX -- Name: "Stavitel (Těžší)"
         / Description: "Polož 2048 bloků."
         / Reward: 250P
       
-      XXIX -- Name: "Cestovatel (Těžší)"
+      XXX -- Name: "Cestovatel (Těžší)"
         / Description: "Ujdi 20000 bloků."
         / Reward: 300P
       
-      XXX -- Name: "Potápěč (Těžší)"
+      XXXI -- Name: "Potápěč (Těžší)"
         / Description: "Strav 30 minut pod vodou."
         / Reward: 350P
       
-      XXXI -- Name: "Alchymista (Těžší)"
+      XXXII -- Name: "Alchymista (Těžší)"
         / Description: "Udělej 64 lektvarů."
         / Reward: 400P
       
-      XXXII -- Name: "Lovec pokladů (Těžší)"
+      XXXIII -- Name: "Lovec pokladů (Těžší)"
         / Description: "Najdi 10 truhel ve strukturách."
         / Reward: 450P
       
-      XXXIII -- Name: "Dimenzionální cestovatel (Těžší)"
+      XXXIV -- Name: "Dimenzionální cestovatel (Těžší)"
         / Description: "Navštiv Nether i End."
         / Reward: 600P
+
+
+## SECRET:
+
+     || I -- Name: "Herkules (Tajemství)"
+      / Description: "Zabí Medúzu."
+        // For UNK: (Pouze pokud by šlo přidat custom bosse)
+      / Reward: 2500P
+
+      I -- Name: "Smrtelník (Tajemství)"
+       / Description: "Umři sto a jednou."
+       / Reward: 2500P
+
+
