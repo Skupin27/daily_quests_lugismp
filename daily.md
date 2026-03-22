@@ -1,6 +1,6 @@
 # DAILY QUESTS:
 
-## Legenda:
+### Legenda:
 
 || I -- Name: "Příklad (Lehké/Střední/Těžší)" <-- jméno úkolu ( I ) <-- pořadí ( || ) <-- pouze pokud to půjdu <br>
       / Description: "Příklad." <-- Popis úkolu <br>
@@ -14,9 +14,7 @@ mining:
 - jen naturalní generace
 
 
-================================================
  ## EASY:
-================================================
 
 
     I -- Name: "Horník (Lehké)"
@@ -90,9 +88,7 @@ mining:
       / Reward: 25P
 
 
-================================================
   ## MEDIUM:
-================================================
 
 
     I -- Name: "Horník (Střední)"
@@ -187,9 +183,7 @@ mining:
       / Reward: 100P
 
 
-================================================
 ## HARD:
-================================================
 
 
     I -- Name: "Horník (Těžší)"
