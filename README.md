@@ -411,13 +411,28 @@
 
 ## SECRET:
 
-     || I -- Name: "Herkules (Tajemství)"
-      / Description: "Zabí Medúzu."
+     || I -- Name: "Herkules (Tajemný)"
+      / Description: "Odeber Medúzi hlavy z jejího krku."
         // For UNK: (Pouze pokud by šlo přidat custom bosse)
       / Reward: 2500P
 
-      II -- Name: "Smrtelník (Tajemství)"
+      II -- Name: "Smrtelník (Tajemný)"
        / Description: "Umři sto a jednou."
-       / Reward: 2500P
+       / Reward: 5P
+
+      III -- Name: "3 na 4 (Tajemný)"
+       / Description: "Zabij 81 Witherů."
+       / Reward: 3000P
+
+       IV -- Name: "↑↓→← (Tajemství)"
+       / Description: "Zneškodni 1000 zvířat (kromě slepic)."
+        // For UNK: (Všechny zvířata až na slepice >:3c)
+       / Reward: 7000P
+
+       || V -- Name: "Sisyfos (Tajemství)"
+       / Description: "Ujdi 10000 metrů (Pouze chůze)."
+        // For UNK: (Nesmíš jíst, skákat, plavat, jezdit v lodi/ve vozíku/na zvířatech, létat ani sprintovat)
+       / Reward: 10000P
+       
 
 
