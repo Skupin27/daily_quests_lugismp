@@ -120,6 +120,10 @@
         / Description: "Seber 64 různých itemů."
         / Reward: 35P
 
+      XXV -- Name: "Mašinfýra (Lehké)"
+        / Description: "Jeď 1000 metrů ve vozíku."
+        / Reward: 40P
+
   ## MEDIUM:
 
 
@@ -250,6 +254,9 @@
         / Description: "Použij schopnost, alespoň jednou."
         / Reward: 120P
 
+        XXV -- Name: "Mašinfýra (Střední)"
+        / Description: "Jeď 5000 metrů ve vozíku."
+        / Reward: 100P
 
 
 ## HARD:
@@ -408,6 +415,10 @@
         / Description: "Použij schopnost, alespoň 20krát."
         / Reward: 420P
 
+        XXV -- Name: "Mašinfýra (Těžší)"
+        / Description: "Jeď 25000 metrů ve vozíku."
+        / Reward: 350P
+
 
 ## SECRET:
 
@@ -418,7 +429,7 @@
 
       II -- Name: "Smrtelník (Tajemný)"
        / Description: "Umři sto a jednou."
-       / Reward: 5P
+       / Reward: -100P
 
       III -- Name: "3 na 4 (Tajemný)"
        / Description: "Zabij 81 Witherů."
