@@ -1,5 +1,8 @@
 # DAILY QUESTS:
 
+ Vytvořili <Skupin27> a <bal_di7> 
+---
+
 ### Legenda:
 
 || I -- Name: "Příklad (Lehké/Střední/Těžší)" <-- jméno úkolu ( I ) <-- pořadí ( || ) <-- pouze pokud to půjdu <br>
@@ -253,6 +256,7 @@
        XXXI -- Name: "Schopnostník (Střední)"
         / Description: "Použij schopnost, alespoň jednou."
         / Reward: 120P
+        / Recommended by: <WroxCZ>
 
         XXV -- Name: "Mašinfýra (Střední)"
         / Description: "Jeď 5000 metrů ve vozíku."
@@ -411,9 +415,10 @@
         / Reward: 1000P
         / Recommended by: <WroxCZ>
 
-      XXXVI -- Name: "Schopnostník (Těžší)"
+      XXXVI -- Name: "Schopnostník+ (Těžší)"
         / Description: "Použij schopnost, alespoň 20krát."
         / Reward: 420P
+        / Recommended by: <WroxCZ>
 
         XXV -- Name: "Mašinfýra (Těžší)"
         / Description: "Jeď 25000 metrů ve vozíku."
